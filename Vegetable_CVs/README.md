@@ -1,0 +1,1 @@
+# This directory contains Computer Vision projects related to vegetables
